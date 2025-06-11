@@ -78,3 +78,4 @@ npm run dev
 
 - This is a [Letterboxd](https://letterboxd.com/) website replica
 - API used: [The Movie Database](https://www.themoviedb.org/)
+# software_project
